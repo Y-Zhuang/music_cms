@@ -1,0 +1,38 @@
+server:
+  port: 8090
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/music_cms?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&useSSL=false&allowMultiQueries=true
+    username: root
+    password: ENC(1Qchwo3cCMBkWZxqQ2gTS8RB9M+M/FBkwv0NA/mS0ZK4di3NX6cuuo25wBoGXWjR)
+  servlet:
+    multipart:
+      max-file-size: 500MB
+      max-request-size: 500MB
+
+
+mybatis:
+  mapperLocations: classpath:mapper/*.xml
+  typeAliasesPackage: com.zhuang.music_cms.model.entity
+
+jwt:
+  config:
+    key: music_cms
+    expire: 6300000
+
+aliyun-oss:
+  bucketApp: ENC(QGrg5j+mtPx+Q7qUpHVWCOYRw7G6GlElImvBxonJDq51fDf0KrutDGsltSN1SlaY)
+  region: oss-cn-heyuan
+  endpoint : https://oss-cn-heyuan.aliyuncs.com
+  domainApp: ENC(uq00Z8fq85BwhzSFhoQi1X7e8wHWjr8f6iAVGlsv6RghqA15ot270A6v2Q8WP3ceBwZjcKet7tne9ZvENW9eRfNJ765pUHZDF9bDFT1NBF4=)
+  accessKeyId: ENC(gRc954CN/G2EbKL+C3jq9Zw8XuOaxm6CwrLiJgiVpA4f00YAPfkHKBveb+JyWqJ5+b23qOscuij9ChjlKzmUmw==)
+  accessKeySecret: ENC(vfrXyF1AHMH3jWc1akoPUX78wGO1aK2tGkTXLmTOoYIf8yI7i4NMY5svm20/JrfTpgo8Mt+pvJlVA//UDhT4aA==)
+
+jasypt:
+  encryptor:
+    password: ZHUANG
+
+logging:
+  level:
+    com.zhuang.music_cms.mapper: trace
