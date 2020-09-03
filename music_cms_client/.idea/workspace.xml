@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2058bb3c-751c-429d-bc7c-0b8fb1aa51ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1aqS09lLUfbqh9DR5BgkwrJnbUy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\28900\Desktop\cms\music_cms_client\src\components\mainFooter" />
+      <recent name="C:\Users\28900\Desktop\cms\music_cms_client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\28900\Desktop\cms\music_cms_client\src\components\audio" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2058bb3c-751c-429d-bc7c-0b8fb1aa51ea" name="Default Changelist" comment="" />
+      <created>1587461405067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587461405067</updated>
+      <workItem from="1587461414822" duration="333000" />
+      <workItem from="1587461785315" duration="8900000" />
+      <workItem from="1587477436860" duration="4989000" />
+      <workItem from="1587529340831" duration="38205000" />
+      <workItem from="1587625774197" duration="42418000" />
+      <workItem from="1587712514841" duration="18515000" />
+      <workItem from="1587744629765" duration="13776000" />
+      <workItem from="1587796096221" duration="41667000" />
+      <workItem from="1587903676503" duration="3548000" />
+      <workItem from="1587975658193" duration="24143000" />
+      <workItem from="1588014618585" duration="6617000" />
+      <workItem from="1588075422740" duration="26529000" />
+      <workItem from="1588162798598" duration="24945000" />
+      <workItem from="1588242100035" duration="16494000" />
+      <workItem from="1588331259945" duration="21523000" />
+      <workItem from="1588435239588" duration="9202000" />
+      <workItem from="1588695050246" duration="24004000" />
+      <workItem from="1588796840442" duration="7123000" />
+      <workItem from="1588869911485" duration="71650000" />
+      <workItem from="1595453831770" duration="2005000" />
+      <workItem from="1595498143368" duration="3011000" />
+      <workItem from="1595501840765" duration="15149000" />
+      <workItem from="1595596014471" duration="28730000" />
+      <workItem from="1599163800528" duration="4520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="183" key="#ESLint" timestamp="1588961704088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#ESLint/0.0.1920.1050@0.0.1920.1050" timestamp="1588961704088" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587555124817">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587555124817" />
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1588796862995">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1588796862995" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1588701665077">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1588701665077" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587747869953">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1587747869953" />
+    <state x="513" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588271008842">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="513" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1588271008842" />
+    <state x="334" y="249" width="1251" height="569" key="new project wizard" timestamp="1587470967185">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="334" y="249" width="1251" height="569" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1587470967185" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1588960125834">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1588960125834" />
+  </component>
+</project>
