@@ -1,0 +1,93 @@
+{
+  "id": "1773907",
+  "name": "cms",
+  "font_family": "iconfont",
+  "css_prefix_text": "my-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "521031",
+      "name": "权限管理",
+      "font_class": "quanxianguanli",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1305474",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "2136993",
+      "name": "电影之夜-歌曲榜点击态",
+      "font_class": "dianyingzhiye-gequbangdianjitai",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "2136994",
+      "name": "电影之夜-歌曲榜",
+      "font_class": "dianyingzhiye-gequbang",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "5387655",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "eb26",
+      "unicode_decimal": 60198
+    },
+    {
+      "icon_id": "5618760",
+      "name": "歌单",
+      "font_class": "gedan",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "7874519",
+      "name": "收藏列表",
+      "font_class": "shoucangliebiao",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "9351374",
+      "name": "角色管理",
+      "font_class": "jiaoseguanli",
+      "unicode": "e787",
+      "unicode_decimal": 59271
+    },
+    {
+      "icon_id": "11391498",
+      "name": "歌单",
+      "font_class": "gedan1",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "12163495",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "13872530",
+      "name": "用户列表",
+      "font_class": "yonghuliebiao",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "1071059",
+      "name": "展开2",
+      "font_class": "zhankai2",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    }
+  ]
+}
